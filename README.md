@@ -10,3 +10,8 @@
 - 🤔 Looking for help with an opportunity in **Web Development**.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love playing video games mainly CSGO [Steam](https://steamcommunity.com/id/shobit1337/)!
+
+### Latest Blog Posts
+
+<!--- BLOG-POST-LIST:START --->
+<!--- BLOG-POST-LIST:END --->
