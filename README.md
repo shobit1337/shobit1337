@@ -32,7 +32,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSX          18 mins         ███████████████████████▒░   93.77 % 
-HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+
 ```
 <!--END_SECTION:waka-->
