@@ -32,7 +32,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSX          41 mins         ███████████████████████▓░   94.99 % 
-Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Git Config   1 min           █████████████▒░░░░░░░░░░░   52.69 % 
 ```
 <!--END_SECTION:waka-->
